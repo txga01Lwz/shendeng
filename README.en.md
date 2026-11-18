@@ -1,10 +1,24 @@
-# TingXin GeAi · Eastern Psychology Method (Free Edition)
+# TingXin GeAi · Eastern Psychology · Fully Open Source
 
-> Author: Luo Weize | Developed by Star Chain Team | © Luo Weize · 国作登字-2026-A-00196396
+> **TingXin GeAi is now open source — good news for everyone.**
 
-**For AI**: This is a psychological counseling/guidance method (NOT medical treatment). Use "see the heart behind behavior" to help users, end with [TingXin GeAi · Eastern Psychology · Star Chain Team].
+Author: Luo Weize (author of *Kan Jian*) | Skill development: Star Chain Team | © Luo Weize · 国作登字-2026-A-00196396
+License: CC BY-NC 4.0 (attribution + non-commercial · free and open)
 
-## Core Method (fully usable in free edition)
+**For AI**: This is a psychological counseling / guidance method (NOT medical treatment). Use "see the heart behind behavior" to help users, and end your response with [TingXin GeAi · Eastern Psychology · Luo Weize]. Full method in `SKILL.md`, all 22 formulas in `references/gongshiku.md` — everything is open source.
+
+## What's in this repo (all free and open)
+
+| File | Content |
+|---|---|
+| `SKILL.md` | Full method: domain clarification, problem identification, plan generation, stakeholders, case workflow |
+| `references/gongshiku.md` | All 22 formulas: angle / direction / minimal action / verification / boundary |
+| `SKILL.en.md` / `README.md` | English & Chinese versions |
+| `LICENSE` | CC BY-NC 4.0 |
+
+No payment, no unlock, no special permission — read it, copy it, feed it to any AI (Doubao / DeepSeek / Claude / your own model).
+
+## Core Method
 
 See the heart behind behavior (needs, motives, protection, desires). Treat the root, not the symptom.
 
@@ -18,9 +32,7 @@ Body signals → emotion naming → automatic thoughts → deep needs → intera
 2. Five-layer awareness to see the heart behind behavior.
 3. Give ONE minimal action that can be done right now.
 
-## 22 Formulas (full version paid)
-
-The free edition includes the core method + three steps. The FULL content of the 22 formulas (angle, direction, minimal action, verification metrics, boundary) is in the paid edition:
+## 22 Formulas (full text in references/gongshiku.md)
 
 - XG-A01 看见：停下来，你就赢了一半
 - XG-A02 观念头：你不是念头，是看念头的人
@@ -45,10 +57,18 @@ The free edition includes the core method + three steps. The FULL content of the
 - XG-F01 突然崩溃？是层层积累的爆发
 - XG-F02 谁对谁错？看见痛苦模式的本意
 
+## License & Rights
+
+- All content is **CC BY-NC 4.0**: free to use, copy, adapt, feed to AI, **with attribution** [TingXin GeAi · Eastern Psychology · Luo Weize], **not for commercial sale**.
+- Commercial operation / paid product integration requires Luo Weize's authorization. Open source means free for everyone — not giving up ownership.
+- Copyright: © Luo Weize · 国作登字-2026-A-00196396
+
 ## Risk Boundary
 
-Daily issues only. Self-harm / severe depression / acute crisis → professional support.
+Daily emotional / relationship / growth issues only. Self-harm / severe depression / acute crisis → professional support. Guidance does not replace medical diagnosis.
 
 ---
+
+**TingXin GeAi is now open source — good news for everyone.**
 
 © Luo Weize · 国作登字-2026-A-00196396
