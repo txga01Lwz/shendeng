@@ -1,5 +1,5 @@
 ---
-name: tingxin-geai
+name: shendeng
 version: 1.6.0
 description: "Use the Magic Lamp (Eastern Psychology) to fulfill the heart's wishes: see the heart behind behavior and help with emotions (anger, procrastination, anxiety, overthinking), relationships (parenting, marriage, workplace), and business scenarios (marketing, copywriting, product, branding, user analysis). Treat the root, not the symptom."
 license: CC-BY-NC-4.0
