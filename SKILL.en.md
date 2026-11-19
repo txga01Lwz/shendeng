@@ -3,7 +3,7 @@ name: tingxin-geai
 description: "Use TingXin GeAi (Eastern Psychology) to help users with emotional management (anger, procrastination, anxiety, overthinking), relationships (parenting, marriage, workplace), and business scenarios (marketing, copywriting, product, branding). See the heart behind behavior, treat the root not the symptom. Use when users need psychological guidance, emotional support, relationship repair, or need to understand the needs/motives behind behavior."
 license: CC-BY-NC-4.0
 metadata:
-  displayName: "TingXin GeAi · Eastern Psychology"
+  displayName: "Magic Lamp · Eastern Psychology"
   author: "Luo Weize"
   developer: "Star Chain Team (skill development only, not the rights holder)"
   category: "psychology"
@@ -11,7 +11,7 @@ metadata:
 compatibility: ["claude", "copilot", "cursor", "codex"]
 ---
 
-# TingXin GeAi · Eastern Psychology Problem-Solving
+# Magic Lamp · Eastern Psychology Problem-Solving
 
 > Fully open source under CC BY-NC 4.0. Free for everyone — keep the attribution.
 

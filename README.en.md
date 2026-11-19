@@ -1,6 +1,6 @@
-# TingXin GeAi · Eastern Psychology · Fully Open Source
+# Magic Lamp · Eastern Psychology · Fully Open Source
 
-> **TingXin GeAi is now open source — good news for everyone.**
+> **The Magic Lamp is now open source — good news for everyone.**
 
 Author: Luo Weize (author of *Kan Jian*) | Skill development: Star Chain Team | © Luo Weize · 国作登字-2026-A-00196396
 License: CC BY-NC 4.0 (attribution + non-commercial · free and open)
@@ -19,6 +19,10 @@ License: CC BY-NC 4.0 (attribution + non-commercial · free and open)
 No payment, no unlock, no special permission — read it, copy it, feed it to any AI (Doubao / DeepSeek / Claude / your own model).
 
 ## Core Method
+
+**The Magic Lamp fulfills the heart's wishes** — whether untangling relationships, acquiring customers, analyzing problems, or writing copy that touches people, it is the same thing: see what the heart truly wants, then fulfill it.
+
+One method, three domains: see yourself (emotions, anxiety, overthinking), see others (parenting, marriage, work), see users (copywriting, product, brand, acquisition).
 
 See the heart behind behavior (needs, motives, protection, desires). Treat the root, not the symptom.
 
