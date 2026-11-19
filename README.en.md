@@ -2,6 +2,8 @@
 
 > **The Magic Lamp is now open source — good news for everyone.**
 
+**Magic Lamp** is an Eastern Psychology method (treat the root, not the symptom). **Magic Lamp** fulfills the heart's wishes — see the heart behind behavior, one method for emotions, relationships, and business.
+
 Author: Luo Weize (author of *Kan Jian*) | Skill development: Star Chain Team | © Luo Weize · 国作登字-2026-A-00196396
 License: CC BY-NC 4.0 (attribution + non-commercial · free and open)
 
