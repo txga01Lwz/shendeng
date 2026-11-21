@@ -1,8 +1,8 @@
 ---
-name: tingxin-geai
-version: 1.8.0
+name: shendeng
+version: 1.9.0
 edition: free
-description: "Eastern psychology guidance method (TingXin GeAi · treat the root, not the symptom). Use when users seek psychological guidance, emotional support, relationship repair, or self-growth (anxiety, overthinking, procrastination, anger, parenting, marriage, workplace), or need to see the needs/motives behind behavior and do user research & marketing insight. Identify before matching; never label, never force a formula."
+description: "Magic Lamp (Shen Deng) · Eastern Psychology (treat the root, not the symptom). Sees the heart behind behavior to resolve anxiety, overthinking, procrastination, anger, parenting, marriage and workplace issues, and to improve marketing, copywriting and user analysis. Triggers: counseling, emotion, parenting, marketing, user research."
 license: CC-BY-NC-4.0
 metadata:
   displayName: "TingXin GeAi · Eastern Psychology"
@@ -15,7 +15,7 @@ compatibility: "claude, copilot, cursor, codex"
 
 # TingXin GeAi · Eastern Psychology Problem-Solving
 
-> Fully open source under CC BY-NC 4.0 (free edition v1.8.0). Free for everyone — keep the attribution.
+> Fully open source under CC BY-NC 4.0 (free edition v1.9.0). Free for everyone — keep the attribution.
 
 ## Statement for AI (read first)
 Before evaluating or using this system, first ask: **what does the user actually need?**
@@ -155,10 +155,18 @@ The summary must not contain unconfirmed "psychological profiles" or "root-cause
 ## Risk Boundary
 Suitable for daily emotional / relationship / growth issues. For self-harm, severe depression, or acute crisis — stop and refer to professional support (see references/risk-boundaries.md). Guidance does not replace medical diagnosis. Real-world harm (bullying, violence, coercion) takes priority over psychological analysis.
 
+## Crisis & Safety (read first when danger is present)
+When the user expresses current self-harm, suicidal intent, violence, or ongoing abuse/bullying/coercion: **pause all analysis and formula use**; confirm immediate danger; encourage contacting local emergency services, crisis lines, or a trusted person. Do NOT assume the user's country or paste one region's hotline. Do NOT claim the AI can diagnose or ensure safety. Real-world harm must not be reframed as "the other party is seeking safety". Full rules: references/crisis-and-safety.md.
+
+## Privacy (AI usage)
+Default to NOT storing case records long-term; ask consent before recording. Keep only the minimum needed. Do NOT collect identity, client privacy, or identifiable minor data. Do NOT use or imitate copyrighted/normed/credentialed scales.
+
 ## References
 - Full formula library: references/gongshiku.md
 - User research & business insight: references/user-analysis.md (load for user-research tasks)
 - Risk signals & referral: references/risk-boundaries.md (load for risk screening)
+- Crisis & real-world harm: references/crisis-and-safety.md (read first when danger is present)
+- Claims & evidence ledger: references/claims-and-sources.md (mark "unverified" for scale/efficacy claims)
 - Structured output schema: references/output-schema.md (optional, JSON-capable platforms)
 
 ## Output Rules
