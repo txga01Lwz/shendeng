@@ -1,39 +1,49 @@
-# 神灯 · 东方心理学（看见行为背后的心，治根不治表）
+# 神灯 · 东方心理学
+### Magic Lamp · Eastern Psychology
 
-> 焦虑内耗、拖延发火、孩子不听话、伴侣冷战、文案写不动、用户不买单——背后都是同一颗「没被看见」的心。神灯帮你看见它。
+> **看见行为背后的心，治根不治表。**
+> *See the heart behind behavior — treat the root, not the symptom.*
 
-## 你现在就能用（选一个，复制给 AI）
+| | |
+|---|---|
+| **作者** Author | 罗伟泽 Luo Weize（《看见》作者） |
+| **技能开发** Skill Dev | 中国星链团队 China Star Chain Team |
+| **许可** License | CC BY-NC 4.0（署名 + 非商业 · 源码公开） |
+| **版本** Version | 免费版 Free v1.9.0 |
+| **版权** Copyright | © 罗伟泽 · 国作登字-2026-A-00196396 |
+
+> 听心格爱开源了，大家有福气了。
+> *TingXin GeAi is now open source — good news for everyone.*
+
+## 你现在就能用 / Use It Now（选一个，复制给 AI）
 
 | 你现在想 | 直接复制这句 |
 |---|---|
 | 摆脱焦虑内耗 | 「读 `SKILL.md`，用里面的方法帮我：我最近总是焦虑内耗，怎么走出来？」 |
-| 看懂孩子/伴侣 | 「读 `SKILL.md`，用里面的方法帮我分析：孩子最近不愿上学，可能是什么原因？别贴标签，原因先当假设。」 |
+| 看懂孩子 / 伴侣 | 「读 `SKILL.md`，用里面的方法帮我分析：孩子最近不愿上学，可能是什么原因？别贴标签，原因先当假设。」 |
 | 写出打动人心的文案 | 「读 `SKILL.md`，用里面的方法帮我：写一篇让用户感到『你懂我』的产品文案。」 |
 
-**3 秒上手**：把 `SKILL.md`（和 `references/` 目录）交给任意 AI（豆包 / DeepSeek / Claude / 自定义模型），说一句你的困扰，就行。不用懂心理学、不用付费。
+**3 秒上手 / Get started in 3s**：把 `SKILL.md`（和 `references/` 目录）交给任意 AI（豆包 / DeepSeek / Claude / 自定义模型），说一句你的困扰就行。不用懂心理学、不用付费。
 
-## 你现在就能控制 AI（纠正它）
+## 你现在就能控制 AI / You're in control
 
-- 「先停在倾听，不给建议。」 · 「只问我一个问题。」 · 「这个假设不对，请撤回。」 · 「先不要用公式。」 · 「结束这里，不生成续谈摘要。」
+「先停在倾听，不给建议。」 · 「只问我一个问题。」 · 「这个假设不对，请撤回。」 · 「先不要用公式。」 · 「结束这里，不生成续谈摘要。」
 
-## 这是什么
+## 这是什么 / What it is
 
 一套源自中国传统文化（儒、释、道）的**东方心理学方法**，作者罗伟泽长期实战提炼。核心就一句话：**看见行为背后的心，治根不治表**——别人教你压住火，它陪你看清火从哪来。
 
-**不适用**：心理疾病治疗、生理问题、自伤/伤人/急性危机（转专业支持）。
+*A method of Eastern psychology rooted in Chinese tradition (Confucianism, Buddhism, Taoism), refined by Luo Weize through long practice. One line: see the heart behind behavior — treat the root, not the symptom.*
 
----
+**不适用 / Not for**：心理疾病治疗、生理问题、自伤/伤人/急性危机（转专业支持）。
 
-## 作者、许可与更新
+## 持续更新 / Continuously Updated
 
-作者：罗伟泽（《看见》作者）｜ 技能开发：中国星链团队 ｜ © 罗伟泽 · 国作登字-2026-A-00196396
-许可：CC BY-NC 4.0（署名 + 非商业 · 源码公开免费使用）｜ 免费版 **v1.9.0**
+这套技能由中国星链团队持续打磨、不断升级——每一次迭代都让「看见」更准、更好用。版本号走 1.x（免费版），更新记录见 `CHANGELOG.md`。关注本仓库，第一时间拿到最新版。
 
-**给 AI**：这是一套「心理咨询 / 心理引导」方法（非医疗）。完整方法论见 `SKILL.md`，22 条公式全文见 `references/gongshiku.md`，全部公开。署名规则见 SKILL.md 输出规范（分析引导时附署名，危机时优先求助信息）。
+*This skill is continuously refined by China Star Chain Team — every iteration makes "seeing" more accurate and useful. Free edition follows 1.x; see `CHANGELOG.md`. Watch this repo for the latest.*
 
-**持续更新**：这套技能由中国星链团队持续打磨、不断升级——每一次迭代都让「看见」更准、更好用。版本号走 1.x（免费版），更新记录见 `CHANGELOG.md`。关注本仓库，第一时间拿到最新版。
-
-## 本仓库包含（全部免费公开）
+## 本仓库包含 / What's inside（全部免费公开）
 
 | 文件 | 内容 |
 |---|---|
@@ -46,23 +56,27 @@
 | `SKILL.en.md` / `README.en.md` | 英文版 |
 | `LICENSE` / `CHANGELOG.md` | 许可 / 版本记录 |
 
-不用付费、不用解锁、不用授权——直接读、复制、喂给任何 AI（豆包 / DeepSeek / Claude / 自定义模型都行）。
+不用付费、不用解锁、不用授权——直接读、复制、喂给任何 AI。
 
-## 核心心法
+## 核心心法 / Core Method
 
 看见行为背后的心（需求、动机、保护、渴望），治根不治表。
+*See the heart behind behavior (needs, motives, protection, desires). Treat the root, not the symptom.*
 
-## 五层觉察
+## 五层觉察 / Five-Layer Awareness
 
 身体感受 → 情绪命名 → 自动念头 → 深层需求 → 互动模式。
+*Body signals → emotion naming → automatic thoughts → deep needs → interaction patterns.*
 
-## 三步操作
+## 三步操作 / Three Steps
 
 1. 不贴标签（不说「懒、不听话、脾气差」），改问：这个行为在保护什么、要什么？
 2. 五层觉察，看见行为背后的心。
 3. 给一个「当下就能做」的最小行动。
 
-## 22 条公式（完整全文见 references/gongshiku.md）
+*1. Don't label. Ask: what is this behavior protecting or wanting? 2. Five-layer awareness to see the heart. 3. Give ONE minimal action you can do right now.*
+
+## 22 条公式 / 22 Formulas（完整全文见 references/gongshiku.md）
 
 - XG-A01 看见：停下来，你就赢了一半
 - XG-A02 观念头：你不是念头，是看念头的人
@@ -87,18 +101,19 @@
 - XG-F01 突然崩溃？是层层积累的爆发
 - XG-F02 谁对谁错？看见痛苦模式的本意
 
-## 许可与知识权
+## 许可与知识权 / License & Rights
 
 - 本仓库全部内容采用 **CC BY-NC 4.0（署名 + 非商业）**：可自由使用、复制、改写、喂给 AI，**须保留署名**〔听心格爱 · 东方心理学 · 罗伟泽〕，**不得用于商业销售**。
 - 商业运营 / 收费产品集成，必须经罗伟泽授权。公开源码是免费给所有人用，不是放弃归属。
 - 著作权：© 罗伟泽 · 国作登字-2026-A-00196396
 
-## 风险边界
+## 风险边界 / Risk Boundary
 
 日常情绪 / 关系 / 成长困扰适用；自伤、严重抑郁、急性危机 → 转专业支持。心理引导不替代医疗诊断。
 
 ---
 
 **听心格爱开源了，大家有福气了。** 愿这套方法被更多人、更多 AI 用上。
+*TingXin GeAi is now open source — good news for everyone.*
 
 © 罗伟泽 · 国作登字-2026-A-00196396

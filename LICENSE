@@ -1,16 +1,28 @@
 神灯 · 东方心理学公式库（免费版）
+Magic Lamp · Eastern Psychology Formula Library (Free Edition)
 © 罗伟泽 · 国作登字-2026-A-00196396
+© Luo Weize · 国作登字-2026-A-00196396
 
 全部内容免费提供、源码公开，许可：CC BY-NC 4.0（署名 + 非商业）
+All content is free and source-available under CC BY-NC 4.0 (attribution + non-commercial).
 
-说明：本许可带「非商业」限制，按 OSI（开放源代码促进会）定义不属于 Open Source，
+说明 / Note：本许可带「非商业」限制，按 OSI（开放源代码促进会）定义不属于 Open Source，
 准确表述为「公开源码、非商业许可（source-available, non-commercial）」。
+This license carries a non-commercial restriction and, per the OSI definition, is not "Open Source";
+the accurate term is "source-available, non-commercial".
 
-允许：自由使用、复制、改写、翻译、喂给任何 AI / 模型、用于非商业的帮助与传播。
-要求：保留署名〔听心格爱 · 东方心理学 · 罗伟泽〕与来源。
-禁止：未经授权将本内容用于商业销售、收费产品集成、商业运营。
+允许 / Allowed：自由使用、复制、改写、翻译、喂给任何 AI / 模型、用于非商业的帮助与传播。
+Free use, copying, adaptation, translation, feeding to any AI/model, and non-commercial help & distribution.
+
+要求 / Required：保留署名〔听心格爱 · 东方心理学 · 罗伟泽〕与来源。
+Keep the attribution [TingXin GeAi · Eastern Psychology · Luo Weize] and the source.
+
+禁止 / Prohibited：未经授权将本内容用于商业销售、收费产品集成、商业运营。
+Unauthorized commercial sale, paid product integration, or commercial operation.
 
 公开源码是免费给所有人用，不是放弃归属。著作权与版权登记号不变；
 商业运营 / 收费产品集成，必须经罗伟泽授权，商业收益与罗伟泽相关。
+Source-available means free for everyone — not giving up ownership. Copyright and registration number remain unchanged.
+Commercial operation / paid product integration requires Luo Weize's authorization.
 
-官方仓库：https://github.com/txga01Lwz/shendeng
+官方仓库 / Official repo：https://github.com/txga01Lwz/shendeng
