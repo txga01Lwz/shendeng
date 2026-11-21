@@ -7,7 +7,7 @@ license: CC-BY-NC-4.0
 metadata:
   displayName: "TingXin GeAi · Eastern Psychology"
   author: "Luo Weize"
-  developer: "Star Chain Team (skill development only, not the rights holder)"
+  developer: "China Star Chain Team (skill development only, not the rights holder)"
   category: "psychology"
   tags: "psychology, counseling, emotional-management, parenting, marketing, copywriting, eastern-psychology, self-growth"
 compatibility: "claude, copilot, cursor, codex"

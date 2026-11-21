@@ -7,7 +7,7 @@ license: CC-BY-NC-4.0
 metadata:
   displayName: "神灯 · 东方心理学解题"
   author: "罗伟泽"
-  developer: "星链团队（仅技能开发，非著作权人）"
+  developer: "中国星链团队（仅技能开发，非著作权人）"
   category: "psychology"
   tags: "心理咨询, 心理引导, 情绪管理, 焦虑, 内耗, 拖延, 发火, 亲子教育, 家庭教育, 婚姻, 亲密关系, 职场沟通, 自我成长, 营销, 文案, 产品, 品牌, 销售, 东方心理学, 治根不治表"
 compatibility: "claude, copilot, cursor, codex"
